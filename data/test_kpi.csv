@@ -1,0 +1,7 @@
+Order_ID,Order_Date,Customer,Product,Category,Quantity,Unit_Price,Revenue,Region,Payment_Method
+ORD001,2026-01-05,Customer A,Laptop,Electronics,2,45000,90000,Bengaluru,UPI
+ORD002,2026-01-18,Customer B,Mouse,Accessories,5,500,2500,Mysuru,Card
+ORD003,2026-02-07,Customer C,Phone,Electronics,1,20000,20000,Bengaluru,UPI
+ORD004,2026-02-19,Customer D,Keyboard,Accessories,3,1500,4500,Hubballi,Cash
+ORD005,2026-03-09,Customer E,Monitor,Electronics,2,12000,24000,Mysuru,Card
+ORD006,2026-03-21,Customer F,Mouse,Accessories,4,500,2000,Bengaluru,UPI

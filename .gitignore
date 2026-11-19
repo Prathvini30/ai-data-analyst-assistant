@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+.venv/
+
+# Secrets - NEVER upload these to GitHub
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Exported reports
+exports/
